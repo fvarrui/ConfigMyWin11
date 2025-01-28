@@ -15,15 +15,15 @@ If (Test-RunningAsAdministrator) {
 
     # Change user profiles location to a secondary disk drive if it's possible
     # https://www.nextofwindows.com/how-to-change-user-profile-default-location-in-windows-7
-    Change-ProfilesLocation
+    #Change-ProfilesLocation
 
     # Uninstall onedrive
     Uninstall-OneDrive
 
     # Change computer name and workgroup
-    Write-Output "Changing computer name to CENTOLLO and workgroup to MINIK..."
-    Rename-Computer -NewName "CHOPITO" -ErrorAction SilentlyContinue
-    Add-Computer -WorkgroupName "MINIK" -ErrorAction SilentlyContinue
+    Write-Output "Changing computer name to CENTOLLO and workgroup to IESCANARIAS..."
+    Rename-Computer -NewName "CENTOLLO" -ErrorAction SilentlyContinue
+    Add-Computer -WorkgroupName "IESCANARIAS" -ErrorAction SilentlyContinue
 
     # Set timezone
     Write-Output "Setting timezone to GMT Standard Time"
