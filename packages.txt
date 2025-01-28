@@ -1,12 +1,11 @@
 7zip
 adobereader
-temurin20
 anydesk
 audacity
 gimp
 git
 github-desktop
-google-drive
+googledrive
 googlechrome
 graalvm
 gradle
@@ -25,5 +24,4 @@ vagrant
 virtualbox
 vlc
 vscode
-whatsapp
 wixtoolset
