@@ -10,6 +10,7 @@ googlechrome
 graalvm
 gradle
 innosetup
+intellijidea-community
 libreoffice-fresh
 openssl
 qbittorrent
