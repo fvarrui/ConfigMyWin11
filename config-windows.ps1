@@ -18,7 +18,7 @@ If (Test-RunningAsAdministrator) {
     #Change-ProfilesLocation
 
     # Uninstall onedrive
-    Uninstall-OneDrive
+    #Uninstall-OneDrive
 
     # Change computer name and workgroup
     #Write-Output "Changing computer name to CENTOLLO and workgroup to IESCANARIAS..."
