@@ -16,6 +16,7 @@ openssl
 qbittorrent
 marktext
 maven
+nodejs
 putty
 python
 rufus
